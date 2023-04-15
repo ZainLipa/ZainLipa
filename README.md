@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### my name is Zain
 
-🔭 I’m currently working on Speech Emotion recognition using Python 
+🔭 I’m currently working on Speech Emotion recognition using Python project
 <!--
 **ZainLipa/ZainLipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
