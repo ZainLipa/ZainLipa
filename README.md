@@ -1,5 +1,5 @@
 ### Hi there 👋
-### my name is Zain
+my name is Zain
 
 🔭 I’m currently working on Speech Emotion recognition using Python project
 <!--
