@@ -3,6 +3,13 @@ my name is Zain Ul abidin
 
 
 🔭 I’m currently working on Speech Emotion recognition using Python project
+
+
+<p align  = "center">
+  <img width = "90%"  src = "https://github-readme-streak-stats.herokuapp.com/?user=ZainLipa&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+
+
 <!--
 **ZainLipa/ZainLipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
